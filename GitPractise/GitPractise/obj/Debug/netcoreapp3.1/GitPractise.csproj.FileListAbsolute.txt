@@ -8,6 +8,7 @@ D:\Learnings\Practicals\DevOps\Shrikant\git practice\GitPractise\GitPractise\bin
 D:\Learnings\Practicals\DevOps\Shrikant\git practice\GitPractise\GitPractise\bin\Debug\netcoreapp3.1\GitPractise.pdb
 D:\Learnings\Practicals\DevOps\Shrikant\git practice\GitPractise\GitPractise\bin\Debug\netcoreapp3.1\GitPractise.Views.dll
 D:\Learnings\Practicals\DevOps\Shrikant\git practice\GitPractise\GitPractise\bin\Debug\netcoreapp3.1\GitPractise.Views.pdb
+D:\Learnings\Practicals\DevOps\Shrikant\git practice\GitPractise\GitPractise\obj\Debug\netcoreapp3.1\GitPractise.csprojAssemblyReference.cache
 D:\Learnings\Practicals\DevOps\Shrikant\git practice\GitPractise\GitPractise\obj\Debug\netcoreapp3.1\GitPractise.AssemblyInfoInputs.cache
 D:\Learnings\Practicals\DevOps\Shrikant\git practice\GitPractise\GitPractise\obj\Debug\netcoreapp3.1\GitPractise.AssemblyInfo.cs
 D:\Learnings\Practicals\DevOps\Shrikant\git practice\GitPractise\GitPractise\obj\Debug\netcoreapp3.1\GitPractise.csproj.CoreCompileInputs.cache
